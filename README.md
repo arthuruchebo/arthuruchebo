@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Arthur 
 - 👀 I’m interested in Data analysis, visualisation and Machine Learning
 - 🌱 I’m always learning and improving myself...
-- 📫 I can be reached via Linkedin
+- 📫 I can be reached via <a href= "linkedin.com/in/arthuruchebo">Linkedin</a>
 
 <!---
 arthuruchebo/arthuruchebo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

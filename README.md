@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Arthur 
-- 👀 I’m interested in Data analysis, visualisation and Machine Learning
+- 👀 I’m interested in Data Analytics, Data Science & Business Intelligence
 - 🌱 I’m always learning and improving myself...
 - 📫 I can be reached via <a href= "linkedin.com/in/arthuruchebo">Linkedin</a>
 

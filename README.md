@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Arthur 
-- 👀 I enjopy wrangling and visualising Data
+- 👀 I enjoy wrangling and visualising Data
 - 🌱 Always learning and improving myself, check out my blog on <a href= "https://medium.com/@arthuruchebo2">Medium</a>
 - 📫 I can be reached via <a href= "https://www.linkedin.com/in/arthuruchebo/">Linkedin</a>
 
